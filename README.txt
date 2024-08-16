@@ -1,1 +1,1 @@
-Learning Git and GitHubx
+Learning Git and GitHub
